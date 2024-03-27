@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
-<p align="center">
-  <a href="https://github.com/Orgnise/orgnise">
-   <img src="https://app.orgnise.in/_static/logo.png" alt="Orgnise logo">
-  </a>
-
+<a href="https://orgnise.in" >
+    <img width="100%" alt="opengraph-image" src="https://github.com/Orgnise/webapp/assets/37103237/82a9dbe3-a283-4a9d-a910-6a97879b7c45">
+   </a> 
   <h3 align="center">Orgnise</h3>
 
   <p align="center">
